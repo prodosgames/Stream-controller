@@ -8,6 +8,7 @@ Salvador's HackPad was designed to be useful in a variety of ways.
 
 ## CAD Model:
 <img src=assets/cad.png alt="Schematic" width="500"/>
+<img src=assets/model.png alt="Schematic" width="500"/>
 
 
 
